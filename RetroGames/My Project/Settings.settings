@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Snes9x" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://www.emulator-zone.com/download.php/emulators/snes/snes9x/snes9x-1.55-win32-x64.zip</Value>
+    </Setting>
+    <Setting Name="Setting1" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

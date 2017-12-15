@@ -1,0 +1,11 @@
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\bin\Debug\RetroGames.exe.config
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\bin\Debug\RetroGames.exe
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\bin\Debug\RetroGames.pdb
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\bin\Debug\RetroGames.xml
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.Main.resources
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.Resources.resources
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.vbproj.GenerateResource.Cache
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.exe
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.xml
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.pdb
+c:\users\yggdraz1l\documents\visual studio 2013\Projects\RetroGames\RetroGames\obj\Debug\RetroGames.EmuSNES.resources
