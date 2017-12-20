@@ -1,3 +1,3 @@
 ![alt text][logo]
 
-[logo]: docs/logo.jpg
+[logo]: Docs/logo.jpg
