@@ -1,1 +1,3 @@
-NINTENDO DS EMU
+![alt text][logo]
+
+[logo]: docs/ds-logo.png
