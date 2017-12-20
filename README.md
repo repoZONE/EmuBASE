@@ -1,8 +1,8 @@
-3![alt text][logo]
+![alt text][logo]
 
 [logo]: docs/logo.png
 
-<h3>ROMS</h>
+<h3>ROMS</h3>
 
 <b>SNES</b>
 https://github.com/repoZONE/rombank/tree/master/zip/snes
