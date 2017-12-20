@@ -1,4 +1,4 @@
-![alt text][logo]
+3![alt text][logo]
 
 [logo]: docs/logo.png
 
@@ -11,7 +11,7 @@ https://github.com/repoZONE/rombank/tree/master/zip/snes
 https://github.com/repoZONE/rombank/tree/master/zip/nes
 
 
-<h3>EMULATOREN</h>
+<h3>EMULATOREN</h3>
 
 <b>NINTENDO DS</b>
 
