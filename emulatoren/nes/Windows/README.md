@@ -1,7 +1,7 @@
 
 ![alt text][logo]
 
-[logo]: docs/win.png
+[logo]: Docs/win.png
 
 <b>JNES</b>
 
