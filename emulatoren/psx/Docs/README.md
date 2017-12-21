@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: psx-2.png
+[logo]: PSX-2.png
 
 
 <b>ROMS</b>
